@@ -226,3 +226,5 @@ O sistema consulta automaticamente o saldo da conta antes de enviar qualquer ite
 **Função:** Programador e gestor técnico
 **Versão atual:** `1.0.0`
 **Data:** Outubro de 2025
+**Discord:** dev.jofc
+**Whatsapp:** 77988296594
